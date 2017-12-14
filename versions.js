@@ -1,5 +1,7 @@
 window.apiVersions = {
   versions: [
+    '0.10.0',
+    '0.9.0',
     '0.8.1',
     '0.8.0',
     '0.7.0',
@@ -9,5 +11,5 @@ window.apiVersions = {
   legacy: [
     '0.0.4'
   ],
-  current: '0.8.1'
+  current: '0.10.0'
 };
